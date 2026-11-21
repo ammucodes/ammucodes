@@ -2,7 +2,7 @@
 
 **Frontend Developer · BCA Graduate**
 
-I enjoy building things and understanding how they work under the hood.
+Anyone can generate code. I want to understand what makes it work.
 
 I build with vanilla HTML, CSS and JavaScript to strengthen my fundamentals, and I document what I learn through the projects I share here. Long term, I'm interested in intelligent, high-performance software, including AI/ML, systems programming, and eventually embedded and autonomous systems.
 
