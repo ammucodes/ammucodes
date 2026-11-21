@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Amaan  👋
 
-<!--
-**ammucodes/ammucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer · BCA Graduate**
 
-Here are some ideas to get you started:
+I enjoy building things and understanding how they work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build with vanilla HTML, CSS and JavaScript to strengthen my fundamentals, and I document what I learn through the projects I share here. Long term, I'm interested in intelligent, high-performance software, including AI/ML, systems programming, and eventually embedded and autonomous systems.
+
+**Working with:** HTML · CSS · JavaScript · Python · Bootstrap · Git · GitHub
+
+**Building towards:** C++ · AI/ML · Systems Programming
+
+Open to entry-level frontend roles and internship opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/ammucodes/)
